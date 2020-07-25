@@ -5,8 +5,6 @@ body {
   color: #696969;
 }
 
-
-
 #wrapper {
   background-color: #F5F5F5;
   margin-left: 15%;
@@ -16,16 +14,12 @@ body {
   width: 980px;
 }
 
-
-
 #content {
   margin-left: 10%;
   margin-right: 10%;
   background-color:lightgray;
  
 }
-
-
 
 h1 {
   text-align: center;
@@ -35,8 +29,6 @@ h1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
 }
-
-/* Styles for h2 */
 
 h2 {
   margin-left: 20px;
@@ -48,8 +40,6 @@ h2 {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: bold;
 }
-
-/* Styles for textarea */
 
 textarea {
   padding: 10%;
@@ -64,13 +54,9 @@ textarea {
   font-size: 18px;
 }
 
-/* Styles for button div */
-
 #btn {
   margin-top: 20px;
 }
-
-/* Styles for generate button */
 
 #generate {
   background-color: #f44336;
@@ -80,8 +66,6 @@ textarea {
   margin-left: 18%;
   margin-bottom: 10px;
 }
-
-/* Styles for copy button */
 
 #copy {
   background-color: lightsteelblue;
